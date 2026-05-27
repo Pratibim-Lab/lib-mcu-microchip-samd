@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAMD/ATSAMD51J19A-A:ATSAMD51J19A-A",
+  "name": "ATSAMD51J19A-A",
+  "library": "MCU_Microchip_SAMD",
+  "file": "MCU_Microchip_SAMD.kicad_symdir/ATSAMD51J19A-A.kicad_sym",
+  "description": "SAM D51 Microchip SMART ARM Cortex-M4F-based MCU, 512K Flash, 192K SRAM, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf",
+  "keywords": "32-bit ARM Cortex-M4F MCU Microcontroller",
+  "footprint": "Package_QFP:TQFP-64_10x10mm_P0.5mm",
+  "extends": "ATSAMD51J18A-A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-samd@master/parts/ATSAMD51J19A-A/",
+  "part_path": "parts/ATSAMD51J19A-A",
+  "symbol_file": "parts/ATSAMD51J19A-A/ATSAMD51J19A-A.kicad_sym",
+  "source_library": "MCU_Microchip_SAMD.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:55.926Z"
+}

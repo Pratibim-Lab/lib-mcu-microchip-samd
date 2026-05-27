@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAMD/ATSAMD10D13A-SS:ATSAMD10D13A-SS",
+  "name": "ATSAMD10D13A-SS",
+  "library": "MCU_Microchip_SAMD",
+  "file": "MCU_Microchip_SAMD.kicad_symdir/ATSAMD10D13A-SS.kicad_sym",
+  "description": "ARM Cortex-M0+ MCU, 48MHz, 8KB Flash, 4KB RAM, 1.6-3.6V, 18 GPIO, SOIC-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42242-SAM-D10_Datasheet.pdf",
+  "keywords": "32-bit ARM Cortex-M0+ MCU Microcontroller",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-samd@master/parts/ATSAMD10D13A-SS/",
+  "part_path": "parts/ATSAMD10D13A-SS",
+  "symbol_file": "parts/ATSAMD10D13A-SS/ATSAMD10D13A-SS.kicad_sym",
+  "source_library": "MCU_Microchip_SAMD.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:55.639Z"
+}

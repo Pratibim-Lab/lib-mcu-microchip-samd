@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAMD/ATSAMD11D14A-M:ATSAMD11D14A-M",
+  "name": "ATSAMD11D14A-M",
+  "library": "MCU_Microchip_SAMD",
+  "file": "MCU_Microchip_SAMD.kicad_symdir/ATSAMD11D14A-M.kicad_sym",
+  "description": "ARM Cortex-M0+ MCU, 48MHz, 16KB Flash, 4KB RAM, 1.6-3.6V, 22 GPIO, QFN-24",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf",
+  "keywords": "32-bit ARM Cortex-M0+ MCU Microcontroller",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "ATSAMD09D14A-M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-samd@master/parts/ATSAMD11D14A-M/",
+  "part_path": "parts/ATSAMD11D14A-M",
+  "symbol_file": "parts/ATSAMD11D14A-M/ATSAMD11D14A-M.kicad_sym",
+  "source_library": "MCU_Microchip_SAMD.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:55.652Z"
+}

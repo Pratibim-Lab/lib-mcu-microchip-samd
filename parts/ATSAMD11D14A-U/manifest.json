@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAMD/ATSAMD11D14A-U:ATSAMD11D14A-U",
+  "name": "ATSAMD11D14A-U",
+  "library": "MCU_Microchip_SAMD",
+  "file": "MCU_Microchip_SAMD.kicad_symdir/ATSAMD11D14A-U.kicad_sym",
+  "description": "ARM Cortex-M0+ MCU, 48MHz, 16KB Flash, 4KB RAM, 1.6-3.6V, 18 GPIO, WLCSP-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf",
+  "keywords": "32-bit ARM Cortex-M0+ MCU Microcontroller",
+  "footprint": "Package_CSP:WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm",
+  "extends": "ATSAMD10D14A-U",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-samd@master/parts/ATSAMD11D14A-U/",
+  "part_path": "parts/ATSAMD11D14A-U",
+  "symbol_file": "parts/ATSAMD11D14A-U/ATSAMD11D14A-U.kicad_sym",
+  "source_library": "MCU_Microchip_SAMD.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:55.663Z"
+}

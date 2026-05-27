@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAMD/ATSAMDA1G15B-A:ATSAMDA1G15B-A",
+  "name": "ATSAMDA1G15B-A",
+  "library": "MCU_Microchip_SAMD",
+  "file": "MCU_Microchip_SAMD.kicad_symdir/ATSAMDA1G15B-A.kicad_sym",
+  "description": "SAM DA1 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash w/ 1K RWW, 4K SRAM, TQFP-48",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf",
+  "keywords": "32-bit ARM Cortex-M0+ MCU Microcontroller",
+  "footprint": "Package_QFP:TQFP-48_7x7mm_P0.5mm",
+  "extends": "ATSAMD21G15A-A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-samd@master/parts/ATSAMDA1G15B-A/",
+  "part_path": "parts/ATSAMDA1G15B-A",
+  "symbol_file": "parts/ATSAMDA1G15B-A/ATSAMDA1G15B-A.kicad_sym",
+  "source_library": "MCU_Microchip_SAMD.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:55.965Z"
+}

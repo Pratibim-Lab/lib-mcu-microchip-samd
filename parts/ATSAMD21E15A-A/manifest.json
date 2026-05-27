@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAMD/ATSAMD21E15A-A:ATSAMD21E15A-A",
+  "name": "ATSAMD21E15A-A",
+  "library": "MCU_Microchip_SAMD",
+  "file": "MCU_Microchip_SAMD.kicad_symdir/ATSAMD21E15A-A.kicad_sym",
+  "description": "SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash, 4K SRAM, TQFP-32",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf",
+  "keywords": "32-bit ARM Cortex-M0+ MCU Microcontroller",
+  "footprint": "Package_QFP:TQFP-32_7x7mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-samd@master/parts/ATSAMD21E15A-A/",
+  "part_path": "parts/ATSAMD21E15A-A",
+  "symbol_file": "parts/ATSAMD21E15A-A/ATSAMD21E15A-A.kicad_sym",
+  "source_library": "MCU_Microchip_SAMD.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:55.667Z"
+}

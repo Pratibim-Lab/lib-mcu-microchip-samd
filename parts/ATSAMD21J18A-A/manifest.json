@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAMD/ATSAMD21J18A-A:ATSAMD21J18A-A",
+  "name": "ATSAMD21J18A-A",
+  "library": "MCU_Microchip_SAMD",
+  "file": "MCU_Microchip_SAMD.kicad_symdir/ATSAMD21J18A-A.kicad_sym",
+  "description": "SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf",
+  "keywords": "32-bit ARM Cortex-M0+ MCU Microcontroller",
+  "footprint": "Package_QFP:TQFP-64_10x10mm_P0.5mm",
+  "extends": "ATSAMD21J15A-A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-samd@master/parts/ATSAMD21J18A-A/",
+  "part_path": "parts/ATSAMD21J18A-A",
+  "symbol_file": "parts/ATSAMD21J18A-A/ATSAMD21J18A-A.kicad_sym",
+  "source_library": "MCU_Microchip_SAMD.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:55.911Z"
+}
